@@ -1,6 +1,8 @@
 # Chatbot-using-Socket-
 A simple chatbot to chat on both sides
 
+<img src = "Screenshot chatbot.png">
+
 Developed using node,express and socket
 
 To deploy in heroku, Run the following commands in CLI
